@@ -1,6 +1,6 @@
-[Ship Classes](ShipClasses)
+[Range and Bearing](RangeAndBearing)
 
-[Units of Distance](UnitsOfDistance)
+[Ship Classes Using FTSymbol Font](ShipClasses)
 
 Ship Systems
 ------------
