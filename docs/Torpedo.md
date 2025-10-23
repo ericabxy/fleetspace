@@ -11,3 +11,78 @@ Fires a bolt of plasma at one target. Chance to hit depends on range to target.
 | **24-30″** | Required score to hit: | **6** only
 
 __Damage:__ 1d6 hull points.
+
+Symbols:
+
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <rect x='40' y='2' width='22' height='45' fill='currentColor' stroke='currentColor' stroke-width='5' />
+  <rect x='40' y='50' width='22' height='47' fill='none' stroke='currentColor' stroke-width='5' />
+</svg>
+
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <rect x='40' y='2' width='22' height='45' fill='currentColor' stroke='currentColor' stroke-width='5' />
+  <rect x='40' y='50' width='22' height='47' fill='none' stroke='currentColor' stroke-width='5' />
+  <text x='42' y='85' font-family='sans-serif' font-size='200%' font-weight='bold' fill='currentColor'>L</text>
+</svg>
+
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <rect x='40' y='2' width='22' height='45' fill='currentColor' stroke='currentColor' stroke-width='5' />
+  <rect x='40' y='50' width='22' height='47' fill='none' stroke='currentColor' stroke-width='5' />
+  <text x='42' y='85' font-family='sans-serif' font-size='200%' font-weight='bold' fill='currentColor'>S</text>
+</svg>
+
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx='50' cy='50' r='30' stroke='Tan' fill='none' stroke-width='5' />
+  <path d="M 17.5 50
+           A 25 25 0 0 1 82.5 50
+           L 0 50
+           Z" 
+        fill="Tan" />
+  <line x1='22' y1='34' x2='6'  y2='25' stroke='Tan' stroke-width='5' />
+  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
+  <line x1='78' y1='34' x2='94' y2='25' stroke='Tan' stroke-width='5' />
+</svg>
+
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx='50' cy='50' r='30' stroke='Tan' fill='none' stroke-width='5' />
+  <path d="M 17.5 50
+           A 25 25 0 0 1 82.5 50
+           L 0 50
+           Z" 
+        fill="Tan" />
+  <line x1='22' y1='34' x2='6'  y2='25' stroke='Tan' stroke-width='5' />
+  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
+  <line x1='22' y1='66' x2='6' y2='75' stroke='Tan' stroke-width='5' />
+  <text x='42' y='75' font-family='sans-serif' font-size='200%' font-weight='bold' fill='currentColor'>S</text>
+</svg>
+
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx='50' cy='50' r='30' stroke='Tan' fill='none' stroke-width='5' />
+  <path d="M 17.5 50
+           A 25 25 0 0 1 82.5 50
+           L 0 50
+           Z" 
+        fill="Tan" />
+  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
+  <line x1='78' y1='34' x2='94' y2='25' stroke='Tan' stroke-width='5' />
+  <line x1='78' y1='66' x2='94' y2='75' stroke='Tan' stroke-width='5' />
+  <text x='42' y='75' font-family='sans-serif' font-size='200%' font-weight='bold' fill='currentColor'>L</text>
+</svg>

@@ -11,6 +11,6 @@ Ship Systems
 
 [Needle Beams](NeedleBeam)
 
-[Plasma Bolts](PlasmaBolt)
+[Torpedos](Torpedo)
 
 [Railguns](Railgun)

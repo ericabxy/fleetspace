@@ -11,41 +11,112 @@ __Beam Damage__
 | Every 4 or 5 rolled     | One damage point
 | Every 6 rolled          | Two damage points
 
-<div style='display:inline' width='100' height='100'>
-    <svg width='100' height='100'>
-      <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
-      <text x='50%' y='50%' font-family='sans-serif' font-size='40' fill='Tan' dominant-baseline='middle' font-weight='bold' text-anchor='middle'>1</text>
-      <!-- foreward firing arcs -->
-      <line x1='24' y1='32' x2='10' y2='20' stroke='Tan' stroke-width='5' />
-      <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
-      <line x1='76' y1='32' x2='90' y2='20' stroke='Tan' stroke-width='5' />
-      <!-- aft firing arcs -->
-      <line x1='76' y1='68' x2='90' y2='80' stroke='Tan' stroke-width='5' />
-      <line x1='50' y1='80' x2='50' y2='100' stroke='Tan' stroke-width='5' />
-      <line x1='24' y1='68' x2='10' y2='80' stroke='Tan' stroke-width='5' />
-    <svg/>
-</div>
+Symbols:
 
-<div style='display:inline' width='100' height='100'>
-    <svg width='100' height='100'>
-      <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
-      <text x='50%' y='50%' font-family='sans-serif' font-size='40' fill='Tan' dominant-baseline='middle' font-weight='bold' text-anchor='middle'>2</text>
-      <!-- foreward firing arcs -->
-      <line x1='25' y1='32' x2='10' y2='20' stroke='Tan' stroke-width='5' />
-      <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
-      <line x1='75' y1='32' x2='90' y2='20' stroke='Tan' stroke-width='5' />
-    <svg/>
-</div>
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
+  <!-- fore arcs -->
+  <line x1='22' y1='34' x2='6' y2='25' stroke='Tan' stroke-width='5' />
+  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
+  <line x1='78' y1='34' x2='94' y2='25' stroke='Tan' stroke-width='5' />
+  <!-- aft arcs -->
+  <line x1='22' y1='66' x2='6' y2='75' stroke='Tan' stroke-width='5' />
+  <line x1='50' y1='80' x2='50' y2='100' stroke='Tan' stroke-width='5' />
+  <line x1='78' y1='66' x2='94' y2='75' stroke='Tan' stroke-width='5' />
+  <text x='50%' y='50%'
+        fill='currentColor'
+        font-family='sans-serif'
+        font-size='300%'
+        font-weight='bold'
+        dominant-baseline='middle'
+        text-anchor='middle'>
+    1
+  </text>
+</svg>
 
-<div style='display:inline' width='100' height='100'>
-    <svg width='100' height='100'>
-      <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
-      <text x='50%' y='50%' font-family='sans-serif' font-size='40' fill='Tan' dominant-baseline='middle' font-weight='bold' text-anchor='middle'>3</text>
-      <!-- foreward firing arcs -->
-      <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
-    <svg/>
-</div>
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
+  <!-- fore arcs -->
+  <line x1='22' y1='34' x2='6' y2='25' stroke='Tan' stroke-width='5' />
+  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
+  <line x1='78' y1='34' x2='94' y2='25' stroke='Tan' stroke-width='5' />
+  <text x='50%' y='50%'
+        fill='currentColor'
+        font-family='sans-serif'
+        font-size='300%'
+        font-weight='bold'
+        dominant-baseline='middle'
+        text-anchor='middle'>
+    2
+  </text>
+</svg>
 
-Class 1 beam batteries can be used for defense against incoming missiles and fighters.
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
+  <!-- fore arc -->
+  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
+  <text x='50%' y='50%'
+        fill='currentColor'
+        font-family='sans-serif'
+        font-size='300%'
+        font-weight='bold'
+        dominant-baseline='middle'
+        text-anchor='middle'>
+    3
+  </text>
+</svg>
 
-A class 2 beam battery can be used under certain circumstances as a [needle beam](NeedleBeam)
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
+  <!-- fore arcs -->
+  <line x1='22' y1='34' x2='6' y2='25' stroke='Tan' stroke-width='5' />
+  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
+  <!-- aft arcs -->
+  <line x1='22' y1='66' x2='6' y2='75' stroke='Tan' stroke-width='5' />
+  <text x='50%' y='50%'
+        fill='currentColor'
+        font-family='sans-serif'
+        font-size='300%'
+        font-weight='bold'
+        dominant-baseline='middle'
+        text-anchor='middle'>
+    2
+  </text>
+</svg>
+
+<svg class='ssd-symbol'
+     version="1.1"
+     viewBox='0 0 100 100'
+     xmlns="http://www.w3.org/2000/svg">
+  <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
+  <!-- fore arcs -->
+  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
+  <line x1='78' y1='34' x2='94' y2='25' stroke='Tan' stroke-width='5' />
+  <!-- aft arc -->
+  <line x1='78' y1='66' x2='94' y2='75' stroke='Tan' stroke-width='5' />
+  <text x='50%' y='50%'
+        fill='currentColor'
+        font-family='sans-serif'
+        font-size='300%'
+        font-weight='bold'
+        dominant-baseline='middle'
+        text-anchor='middle'>
+    2
+  </text>
+</svg>
+
+* Class 1 beam batteries can be fired in limited point defense mode.
+
+* A class 2 beam battery can be used under certain circumstances as a [needle beam](NeedleBeam).
