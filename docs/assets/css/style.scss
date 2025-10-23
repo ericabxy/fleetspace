@@ -36,3 +36,60 @@ p a:hover, p a:active {
   color: White;
   text-decoration: none;
 }
+
+tr {
+  background-color: transparent !important;
+}
+
+th, td {
+  border-color: Tan !important;
+}
+
+@font-face {
+  font-family: FTSymbol;
+  src: url('FTSymbol.ttf');
+}
+
+.beam-batteries {
+  font-family: FTSymbol;
+  font-size: 36pt;
+  line-height: 75%;
+  text-align: center;
+}
+
+.damage-track {
+  font-family: FTSymbol;
+  font-size: 36pt;
+  line-height: 25%;
+}
+
+.fire-control {
+  font-family: FTSymbol;
+  font-size: 36pt;
+  line-height: 1%;
+}
+
+.ftl-drive {
+  font-family: FTSymbol;
+  font-size: 36pt;
+  line-height: 90%;
+  text-align: center;
+}
+
+.main-drive {
+  font-family: FTSymbol;
+  font-size: 36pt;
+  line-height: 75%;
+  text-align: center;
+}
+
+.point-defense {
+  font-family: FTSymbol;
+  font-size: 36pt;
+  line-height: 50%;
+}
+
+.ship-diagram {
+  border: 1px solid Tan;
+  display: inline-block;
+}

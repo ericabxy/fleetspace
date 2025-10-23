@@ -1,4 +1,13 @@
 Defensive Screen
 ----------------
 
-Electromagnetic field generators used to disrupt incoming particle beam fire. If at least one screen is active, beam batteries inflict __no damage__ on rolls of 4. If at least two screens are active, beam batteries only inflict __one damage__ on rolls of 6.
+Electromagnetic field generators used to disrupt incoming particle beam fire. 
+
+| Beam Score | **Level-1 Screens** | **Level-2 Screens**
+| 1-4        | No effect           | No effect
+| 5          | One damage point    | One damage point
+| 6          | Two damage points   | One damage point
+
+One hit deals one damage point.
+
+Defensive screens have no effect against incoming [torpedo](Torpedo) fire.

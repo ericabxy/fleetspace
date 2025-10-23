@@ -1,5 +1,6 @@
-Space Ships
------------
+[Ship Classes](ShipClasses)
+
+[Units of Distance](UnitsOfDistance)
 
 Ship Systems
 ------------
