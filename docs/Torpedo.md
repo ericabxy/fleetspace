@@ -87,6 +87,8 @@ Symbols:
   <text x='42' y='75' font-family='sans-serif' font-size='200%' font-weight='bold' fill='currentColor'>L</text>
 </svg>
 
+### Long Range and Short Range Torpedoes
+
 The weapon described above is a standard torpedo system. Torpedo systems also come in short- and long-range varieties.
 
 **Long Range:**
@@ -106,3 +108,7 @@ The weapon described above is a standard torpedo system. Torpedo systems also co
 | **8-12″**  | Required score to hit: | **4** to **6**
 | **12-16″** | Required score to hit: | **5** or **6**
 | **16-20″** | Required score to hit: | **6** only
+
+### Classed Torpedo
+
+A variant of the torpedo range system designates a numbered class for each range. Standard torpedoes with a 6&Prime; range band are Class 1, and the equivalent of Long Range with a 9&Prime; range band are Class 2. Since these class numbers don't have parity with the actual measurements like other classed systems do (beam classes tell you how many dice to roll, railgun classes tell you how much damage they will deal, etc.), and it doesn't accommodate a Short Range missile, this concept has been abandoned in favor of the Long and Short range torpedo designations.

@@ -5,13 +5,12 @@ Particle accelerator offensive weapon system. Several individual particle beam p
 
 To determine the effect of firing on a target, a number of dice are rolled depending on range. Class 3 batteries have a range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
 
-| Range      | Class 1 | Class 2 | Class 3 | Class 4 | Class 5
-| ---------- | ------- | ------- | ------- | ------- | -------
-| **0-12″**  | Roll 1D | Roll 2D | Roll 3D | Roll 4D | Roll 5D
-| **12-24″** | ---     | Roll 1D | Roll 2D | Roll 3D | Roll 4D
-| **24-36″** | ---     | ---     | Roll 1D | Roll 2D | Roll 3D
-| **36-48″** | ---     | ---     | ---     | Roll 1D | Roll 2D
-| **48-60″** | ---     | ---     | ---     | ---     | Roll 1D
+| Range      | Class 1 | Class 2 | Class 3 | Class 4
+| ---------- | ------- | ------- | ------- | -------
+| **0-12″**  | Roll 1D | Roll 2D | Roll 3D | Roll 4D
+| **12-24″** | ---     | Roll 1D | Roll 2D | Roll 3D
+| **24-36″** | ---     | ---     | Roll 1D | Roll 2D
+| **36-48″** | ---     | ---     | ---     | Roll 1D
 
 Damage is dealt according to the results of the dice. The target ship must cross off a number of <span class='damage-track'>j</span>hull boxes according to the total damage points generated as detailed in this table.
 
@@ -20,6 +19,14 @@ Damage is dealt according to the results of the dice. The target ship must cross
 | Every 1, 2, or 3 rolled | No effect
 | Every 4 or 5 rolled     | One damage point
 | Every 6 rolled          | Two damage points
+
+Defensive screens reduce the damage from beam batteries.
+
+| Results                    | Screen Level 1    | Screen Level 2
+| -------------------------- | ----------------- | --------------
+| Every 1, 2, 3, or 4 rolled | No effect         | No effect
+| Every 5 rolled             | One damage point  | One damage point
+| Every 6 rolled             | Two damage points | One damage point
 
 Symbols:
 
@@ -155,14 +162,3 @@ Design Costs
 | Class 3 Battery | 3    | 4 points + 3/arc
 | Class 4 Battery | 5    | 5 points + 4/arc
 | Class 5 Battery | 8    | 6 points + 5/arc
-
-Advanced Beam Battery
----------------------
-
-Advanced beam batteries represent shifting relative tech levels and experimental, cutting-edge technology. They cost more than standard beam batteries, but are more accurate and have increased range.
-
-| Results                 | Damage
-| ----------------------- | ------
-| Every 1, 2, or 3 rolled | No effect
-| Every 4 or 5 rolled     | One damage point
-| Every 6 rolled          | Two damage points
