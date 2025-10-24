@@ -10,7 +10,7 @@ Fires a bolt of plasma at one target. Chance to hit depends on range to target.
 | **18-24″** | Required score to hit: | **5** or **6**
 | **24-30″** | Required score to hit: | **6** only
 
-__Damage:__ 1d6 hull points.
+Each torpedo that hits deals 1d6 damage points to the target. Defensive screens have no effect against this damage.
 
 Symbols:
 
@@ -86,3 +86,23 @@ Symbols:
   <line x1='78' y1='66' x2='94' y2='75' stroke='Tan' stroke-width='5' />
   <text x='42' y='75' font-family='sans-serif' font-size='200%' font-weight='bold' fill='currentColor'>L</text>
 </svg>
+
+The weapon described above is a standard torpedo system. Torpedo systems also come in short- and long-range varieties.
+
+**Long Range:**
+
+| At range of:
+| **0-9″**   | Required score to hit: | **2** to **6**
+| **9-18″**  | Required score to hit: | **3** to **6**
+| **18-27″** | Required score to hit: | **4** to **6**
+| **27-36″** | Required score to hit: | **5** or **6**
+| **36-45″** | Required score to hit: | **6** only
+
+**Short Range:**
+
+| At range of:
+| **0-4″**   | Required score to hit: | **2** to **6**
+| **4-8″**   | Required score to hit: | **3** to **6**
+| **8-12″**  | Required score to hit: | **4** to **6**
+| **12-16″** | Required score to hit: | **5** or **6**
+| **16-20″** | Required score to hit: | **6** only
