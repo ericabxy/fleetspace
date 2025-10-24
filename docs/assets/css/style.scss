@@ -24,18 +24,24 @@ a {
   color: Coral;
 }
 
-p a {
+li a:only-child {
   background-color: DarkBlue;
   border: 1px solid White;
   border-radius: 0 1em 0 .5em;
+  display: inline-block;
   padding: 0 0.5em;
-  text-decoration: none;
+  width: 100%;
 }
 
-p a:hover, p a:active {
+li a:only-child:hover, li a:only-child:active {
   background-color: Orange;
   color: White;
   text-decoration: none;
+}
+
+li:has(a) {
+  list-style-type: none;
+  text-align: right;
 }
 
 tr {
