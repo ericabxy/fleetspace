@@ -5,17 +5,23 @@
 Standard Systems
 ----------------
 
-* [Beam Batteries](BeamBattery)
-* [Defensive Screens](DefensiveScreen)
+* [Beam Batteries](BeamBatteries)
+* [Defensive Screens](DefensiveScreens)
 * [Needle Beams](NeedleBeam)
-* [Torpedos](Torpedo)
-* [Railguns](Railgun)
+* [Torpedoes](Torpedoes)
+* [Railguns](Railguns)
 
 Advanced Systems
 ----------------
 
 * [Advanced Hulls](AdvancedHulls)
-* [Advanced Drives](AdvancedDrive)
+* [Advanced Drives](AdvancedDrives)
 * [Advanced FTL](AdvancedFtl)
 * [Advanced Screens](AdvancedScreens)
 * [Advanced Batteries](AdvancedBatteries)
+
+Links
+-----
+
+* [Full Thrust Fleet Resource](https://fullthrust.star-ranger.com/index.htm)
+* [Hugh's Full Thrust Pages](https://laranzu.id.au/fullthrust/)
