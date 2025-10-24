@@ -1,5 +1,5 @@
-Railgun
--------
+Railguns
+--------
 
 Electromagnetic accelerator fires solid penetrators at high velocity. The chance to hit a target is the same as [torpedo](Torpedo) weapons.
 
@@ -10,20 +10,30 @@ Electromagnetic accelerator fires solid penetrators at high velocity. The chance
 | **18-24″** | Required score to hit: | **5** or **6**
 | **24-30″** | Required score to hit: | **6** only
 
-For each railgun projectile that hits, there is a 50% chance it will deal damage equal to _double_ the class of the railgun. Otherwise it will deal damage equal to the class of the railgun.
+For each railgun projectile that hits, damage is dealt equal to the class of the railgun. However there is a chance it will deal _double_ the damage instead. Roll another six-sided die to determine the result.
 
-| Result | Damage
-| ------ | ------
-| Odds   | Railgun class &times;1
-| Evens  | Railgun class &times;2
+**Railgun damage:**
 
-A variant of the railgun damage system adjusts the occurrence of double damage according to the railgun class. When this system is used, any result equal to or lower than the railgun class AND lower than 6 deals double damage.
+| Railgun Class  | 1-3 Rolled   | 4-6 Rolled
+| :------------: | ------------ | ----------
+|       1        | one point    | two points
+|       2        | two points   | four points
+|       3        | three points | six points
+|       4        | four points  | eight points
 
-| Railgun Class | Damage
-| :-----------: | ------
-|       1       | 1 rolled = **two** damage points, otherwise **one** damage point
-|       2       | 1-2 rolled = **four** damage points, otherwise **two** damage points
-|       3       | 1-3 rolled = **six** damage points, otherwise **three** damage points
-|       4       | 1-4 rolled = **eight** damage points, otherwise **four** damage points
-|       5       | 1-5 rolled = **ten** damage points, otherwise **five** damage points
-|       6       | 1-5 rolled = **twelve** damage points, otherwise **six** damage points
+* Standard defensive screens do not affect damage dealt by railguns
+
+Advanced Screens
+----------------
+
+While standard defensive screens do not affect railgun hits or damage in any way, [advanced screens](AdvancedScreens#against-railguns) are able to reduce the chance of taking double damage.
+
+**Railgun damage against advanced screens:**
+
+| Screen Level 1 | 1-4 Rolled   | 5-6 Rolled
+| Screen Level 2 | 1-5 Rolled   | 6 Rolled
+| :------------: | ------------ | ----------
+| Class 1        | one point    | two points
+| Class 2        | two points   | four points
+| Class 3        | three points | six points
+| Class 4        | four points  | eight points

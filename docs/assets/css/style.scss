@@ -12,7 +12,7 @@ body {
   color: Tan;
 }
 
-h1, h2 {
+header, h1, h2 {
   background-color: DarkBlue;
   border: none !important;
   border-radius: 0 1em 0 0;
@@ -27,7 +27,7 @@ a {
 li a:only-child {
   background-color: DarkBlue;
   border: 1px solid White;
-  border-radius: 0 1em 0 .5em;
+  border-radius: 0 1em 0 0;
   display: inline-block;
   padding: 0 0.5em;
   width: 100%;
